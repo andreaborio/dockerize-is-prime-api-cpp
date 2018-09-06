@@ -1,0 +1,19 @@
+{
+  "name": "primecppnodejs",
+  "version": "1.0.0",
+  "description": "Check if a number is prime with a c++ function using NodeJS and a little bit of magic",
+  "main": "server.js",
+  "scripts": {
+    "compile": "node-gyp rebuild",
+    "start": "node main.js"
+  },
+  "author": "Andrea Borio",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [],
+  "dependencies": {
+    "nan": "^2.11.0",
+    "node-gyp": "^3.8.0"
+  },
+  "gypfile": true
+
+}
