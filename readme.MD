@@ -106,3 +106,8 @@ Now make sure to have installed on your system
  
  
 And run 
+<pre> npm run compile </pre>
+
+
+credits https://medium.com/@marcinbaraniecki/extending-node-js-with-native-c-modules-63294a91ce4
+
